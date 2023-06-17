@@ -1,4 +1,4 @@
-<h1 align="center">Hanabi</h1>
+<h1 align="center">Hanabi3.1</h1>
 <h4 align="center">基于Mixin的客户端</h4>
 
 ### 导入与导出
