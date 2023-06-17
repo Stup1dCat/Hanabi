@@ -1,0 +1,13 @@
+.gradle
+build
+run
+out
+Theresa.api.iml
+Theresa.iml
+Theresa.ipr
+Theresa.iws
+Theresa.main.iml
+Theresa.test.iml
+gradle.properties
+/IrcClient/
+/.idea/
